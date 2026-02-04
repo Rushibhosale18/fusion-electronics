@@ -31,10 +31,10 @@ const helpLinks = [
 ];
 
 const socialLinks = [
-  { icon: <GitHubIcon />, label: 'GitHub', href: 'https://github.com/pratikagre' },
-  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/pratik-agre-74b18a325/' },
+  { icon: <GitHubIcon />, label: 'GitHub', href: 'https://github.com/Rushibhosale18' },
+  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/rushikesh-bhosale18/' },
  
-  { icon: <EmailIcon />, label: 'Email', href: 'agrepratik150@gmail.com' },
+  { icon: <EmailIcon />, label: 'Email', href: 'rushibhosale1818@gmail.com' },
 ];
 
 const policyLinks = [
